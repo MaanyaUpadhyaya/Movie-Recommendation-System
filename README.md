@@ -24,3 +24,14 @@ This project analyzes movie data to explore trends, relationships, and patterns 
    * Matplotlib
    * Seaborn
 
+
+## Usage
+
+Run the provided code in a Jupyter Notebook or a Python environment that supports Jupyter notebooks.
+The code loads movie data and performs data transformations.Various analysis and visualization techniques are applied to explore movie attributes.
+
+## Data Source
+
+The data used in this project comes from the TMDB (The Movie Database) dataset. It includes information about movies, genres, cast, crew, and keywords. The dataset is available here.
+👉🏻 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
