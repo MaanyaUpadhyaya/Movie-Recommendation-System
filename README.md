@@ -37,9 +37,13 @@ The data used in this project comes from the TMDB (The Movie Database) dataset. 
 The project includes the following analysis:
 
 -Genres Analysis: Analyzing the distribution of movie genres.
+
 -Cast Analysis: Exploring the cast members' involvement in movies.
+
 -Director Analysis: Investigating the role of directors in the film industry.
+
 -Keywords Analysis: Analyzing keywords associated with movies.
+
 -Rating Analysis: Exploring the relationship between movie ratings and other attributes.
 
 ## Contributing
