@@ -32,3 +32,17 @@ The code loads movie data and performs data transformations.Various analysis and
 The data used in this project comes from the TMDB (The Movie Database) dataset. It includes information about movies, genres, cast, crew, and keywords. The dataset is available here.
 👉🏻 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
+## Analysis
+
+The project includes the following analysis:
+
+-Genres Analysis: Analyzing the distribution of movie genres.
+-Cast Analysis: Exploring the cast members' involvement in movies.
+-Director Analysis: Investigating the role of directors in the film industry.
+-Keywords Analysis: Analyzing keywords associated with movies.
+-Rating Analysis: Exploring the relationship between movie ratings and other attributes.
+
+## Contributing
+
+Contributions are welcome! If you have any ideas for improvements or new analyses, feel free to open an issue or submit a pull request.
+
