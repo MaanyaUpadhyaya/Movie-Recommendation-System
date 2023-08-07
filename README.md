@@ -1,4 +1,4 @@
-# Movie-recommendation-sysytem
+# Movie Recommendation System
 
 Welcome to the Project! This project focuses on analyzing movie data using Python's pandas, matplotlib, seaborn, and other libraries. The goal is to gain insights into movie genres, cast, directors, and more.
 
