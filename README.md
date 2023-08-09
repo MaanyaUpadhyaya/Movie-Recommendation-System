@@ -29,8 +29,9 @@ The code loads movie data and performs data transformations.Various analysis and
 
 ## Data Source
 
-The data used in this project comes from the TMDB (The Movie Database) dataset. It includes information about movies, genres, cast, crew, and keywords. The dataset is available here.
-👉🏻 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+The data used in this project comes from the TMDB (The Movie Database) dataset. It includes information about movies, genres, cast, crew, and keywords. 
+
+The dataset is available here.👉🏻 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ## Analysis
 
